@@ -1,0 +1,27 @@
+{
+  "name": "mr-hyde",
+  "version": "1.0.0",
+  "description": "Jekyll boilerplate with postcss & Tailwind",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DruzyDowns/mr-hyde.git"
+  },
+  "author": "druzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DruzyDowns/mr-hyde/issues"
+  },
+  "homepage": "https://github.com/DruzyDowns/mr-hyde#readme",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.4.0",
+    "autoprefixer": "^10.2.4",
+    "cssnano": "^4.1.10",
+    "postcss": "^8.2.6",
+    "postcss-import": "^14.0.0",
+    "tailwindcss": "^2.0.3"
+  }
+}
