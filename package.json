@@ -17,14 +17,15 @@
   },
   "homepage": "https://github.com/DruzyDowns/mr-hyde#readme",
   "devDependencies": {
-    "@tailwindcss/typography": "^0.4.0",
-    "autoprefixer": "^10.2.4",
-    "cssnano": "^4.1.10",
-    "postcss": "^8.2.6",
-    "postcss-import": "^14.0.0",
-    "tailwindcss": "^2.0.3"
+    "@tailwindcss/typography": "^0.4.1",
+    "autoprefixer": "^10.2.6",
+    "cssnano": "^5.0.6",
+    "glob-parent": "^5.1.2",
+    "postcss": "^8.3.4",
+    "postcss-import": "^14.0.2",
+    "tailwindcss": "^2.1.4"
   },
   "dependencies": {
-    "@tailwindcss/line-clamp": "^0.2.0"
+    "@tailwindcss/line-clamp": "^0.2.1"
   }
 }
